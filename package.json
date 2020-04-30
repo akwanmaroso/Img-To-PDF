@@ -16,6 +16,6 @@
     "tesseract.js": "^2.0.0-alpha.15"
   },
   "devDependencies": {
-    "nodemon": "^1.19.2"
+    "nodemon": "^2.0.3"
   }
 }
